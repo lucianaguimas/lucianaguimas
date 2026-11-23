@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, sou Luciana Guimarães! 👋
 
-<!--
-**lucianaguimas/lucianaguimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente curso Bacharelado em Administração de Empresas na Universidade Gama e Souza, com conclusão prevista para dezembro de 2026.
+Complementando essa trajetória, amplio minha formação para a área de análise de dados, com foco em tratamento, limpeza e análise exploratória de dados utilizando SQL, Excel avançado e Power BI. Meu objetivo é unir minha formação em administração com o domínio de Tecnologia da Informação. Acredito no aprendizado contínuo e na integração entre conhecimentos de diferentes áreas.
 
-Here are some ideas to get you started:
+-------------------------------------------------------------------------------------------------------------------
+🎯 Áreas de interesse
+-------------------------------------------------------------------------------------------------------------------
+• 🤖 Inteligência Artificial e IA Generativa
+• 📊 Análise de dados e gestão
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------------------------------------------------------------------------------------------------------
+📚 Jornada de aprendizado
+-------------------------------------------------------------------------------------------------------------------
+Participo dos desafios práticos da Digital Innovation One (DIO) para desenvolver habilidades técnicas, praticar o uso do GitHub e construir um portfólio público de aprendizagem.
+Entre os meus objetivos estão a produção de documentação clara, o desenvolvimento de projetos úteis e a colaboração responsável com a comunidade Open Source.
