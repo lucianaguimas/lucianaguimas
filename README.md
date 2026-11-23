@@ -1,6 +1,6 @@
 ## Olá, sou Luciana Guimarães! 👋
 
-Atualmente curso Bacharelado em Administração de Empresas na Universidade Gama e Souza, com conclusão prevista para dezembro de 2026.
+Atualmente estou finalizando o curso em Administração de Empresas na Universidade Gama e Souza, com conclusão prevista para dezembro de 2026.
 Complementando essa trajetória, amplio minha formação para a área de análise de dados, com foco em tratamento, limpeza e análise exploratória de dados utilizando SQL, Excel avançado e Power BI. Meu objetivo é unir minha formação em administração com o domínio de Tecnologia da Informação. Acredito no aprendizado contínuo e na integração entre conhecimentos de diferentes áreas.
 
 -------------------------------------------------------------------------------------------------------------------
